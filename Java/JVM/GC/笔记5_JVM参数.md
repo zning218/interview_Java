@@ -396,7 +396,7 @@ Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
 
 
 
-![GC](C:\Users\zn\Desktop\ALL\秋招\总复习\Java\JVM\GC(翔仔)\图片\常用参数\GC.png)
+![GC](./图片/常用参数/GC.png)
 
 ```
 [GC [PSYoungGen: 334480K->4736K(334848K)] 597914K->270331K(1017536K), 0.0209890 secs] [Times: user=0.03 sys=0.00, reai=0.02 secs]
@@ -420,11 +420,11 @@ Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
 
 ##### FullGC
 
-![FullGC](C:\Users\zn\Desktop\ALL\秋招\总复习\Java\JVM\GC(翔仔)\图片\常用参数\FullGC.png)
+![FullGC](./图片/常用参数/FullGC.png)
 
 ##### 规律
 
-![阅读规律](C:\Users\zn\Desktop\ALL\秋招\总复习\Java\JVM\GC(翔仔)\图片\常用参数\阅读规律.png)
+![阅读规律](./图片/常用参数/阅读规律.png)
 
 ### 第三组常用参数
 
